@@ -11,6 +11,7 @@ Beyond my work, I am a fervent enthusiast of topics related to data science and 
 
 I am always open to new opportunities for collaboration and learning!
 <div align="center">
+    
 ## Feel free to contact me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-coelho-440780124/?locale=en_US)
