@@ -2,8 +2,6 @@
 
 ### Hello! My name is Bruno Coelho 👋🏾
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-coelho-440780124/?locale=en_US)
-
 
 I'm a data engineer passionate about turning information into valuable insights using tools such as Python, Spark, PySpark, SQL, Hive, and Hadoop to extract the maximum value from data.
 
