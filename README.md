@@ -3,7 +3,7 @@
 ### Hello! My name is Bruno Coelho 👋🏾
 
 
-I'm a Dev and data engineer passionate about turning information into valuable insights using tools such as Python, Spark, PySpark, SQL, Hive, and Hadoop to extract the maximum value from data.
+I'm a Dev and data engineer passionate about turning information into valuable insights using tools such as Java, Python, Spark, PySpark, SQL, Hive, and Hadoop to extract the maximum value from data.
 
 With a background in law and business administration, in addition to a course in Analysis and Systems Development, I have the ability to see beyond technology and understand the purpose of data from a broader perspective. This background allows me not only to analyze data but also to advocate for it and present ideas more comprehensively.
 
