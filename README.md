@@ -29,7 +29,8 @@ I am always open to new opportunities for collaboration and learning!
     <img align="center" alt ="js" src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white/>
     <img align="center" alt ="java" src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white/>
     <img align="center" alt ="spring" src=https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white/>
-    <img align="center" alt ="spark" src=https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white
+    <img align="center" alt ="spark" src=https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white>
+    <img align="center" alt ="kotlin" src=https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white
 />
 
 
